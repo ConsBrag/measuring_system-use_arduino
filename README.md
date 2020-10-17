@@ -16,4 +16,4 @@
 
 #### Precondition for launch: must be connected or created virtual COM port
 
-#### https://youtu.be/SuHsqqvJUDs
+#### [Video demonstration](https://youtu.be/SuHsqqvJUDs)
